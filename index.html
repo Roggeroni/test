@@ -5,5 +5,14 @@
     </head>
     <body>
         <img src="Pliki/Postacie/szczur.png" width="20%" style="margin-top: 30%;">
+        <script>
+            function orientacja() {
+                if (window.innerHeight > window.innerWidth) {
+                    window.location.replace("warning.html");
+                }
+            }
+            orientacja();
+            window.addEventListener("resize", orientacja);
+        </script>
     </body>
 </html>
