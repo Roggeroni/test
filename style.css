@@ -7,11 +7,7 @@ div{
     aspect-ratio: 10/16;
     margin: auto;
 
-    position: absolute;
-    top: auto;
-    right: 0;
-    bottom: 0;
-    left: 0;
+
 
     border-radius: 20px 20px 0 0;
 }
