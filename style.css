@@ -1,3 +1,19 @@
 body{
     background-color: rgb(219, 208, 175);
 }
+.Telefon {
+    width: 100%;
+}
+
+.Telefon img {
+    width: 30%;
+    border-radius: 50%;
+    display: block;
+    margin: 10vh auto 0;
+}
+
+.niebieski {
+    width: 100%;
+    height: 80%;
+    background-color: blue;
+}
