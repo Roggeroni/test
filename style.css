@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(219, 208, 175);
+}
+div{
+    background-color: aqua;
+    height: 90vh;
+    aspect-ratio: 9/16;
+    margin: auto;
+
+    position: absolute;
+    inset: 0;
+
+    border-radius: 20px;
+}
